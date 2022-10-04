@@ -1,0 +1,27 @@
+.fullContent{
+    margin: 10px;
+    flex-direction: initial;
+    justify-content: center;
+}
+
+#email{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+#password{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+#boton{
+    font-size: 20px;
+}
+
+.email{
+    padding: 8px;
+}
+
+.password{
+    padding: 8px;
+}
